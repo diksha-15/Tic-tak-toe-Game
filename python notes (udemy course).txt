@@ -1,0 +1,6 @@
+strings
+1. function = split()
+splits the string into list
+
+2. function = format()
+
